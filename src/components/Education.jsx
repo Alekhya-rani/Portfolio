@@ -2,21 +2,21 @@ import { motion } from 'framer-motion';
 
 const educationList = [
   {
-    institution: "XYZ University",
+    institution: "JNTU-GV University",
     degree: "B.Tech in Computer Science",
-    duration: "2021 – 2025",
-    details: "Current GPA: 8.7. Specialized in Web Development and Machine Learning.",
+    duration: "2022 – 2026",
+    details: "Current GPA: 8.7.",
   },
   {
-    institution: "ABC Junior College",
-    degree: "Intermediate (MPC)",
-    duration: "2019 – 2021",
-    details: "Secured 96% with focus on Mathematics and Physics.",
+    institution: "Sri Chaitanya College",
+    degree: "Intermediate-CBSE (MPC)",
+    duration: "2020 – 2022",
+    details: "Secured 89% with focus on Mathematics,Physics and Chemistry.",
   },
   {
-    institution: "Sunshine High School",
+    institution: "Sri Chaitanya School",
     degree: "Secondary Education (10th)",
-    duration: "2018 – 2019",
+    duration: "2019 – 2020",
     details: "Passed with 10 GPA. Excelled in Science and Computers.",
   },
 ];

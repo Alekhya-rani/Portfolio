@@ -27,7 +27,7 @@ export default function SkillsSection() {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
         >
-          Tech Stack
+          SKILLS
         </motion.h2>
 
         <motion.div

@@ -2,22 +2,55 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
-    title: "ML From Scratch",
+    title: "Proctored Test",
     description:
-      "Implemented ML algorithms like Linear Regression, KNN, Decision Trees, K-Means, PCA, and more — without using any external ML libraries.",
-    tech: ["Python", "NumPy", "Matplotlib"],
-    image: "/images/ml-project.png", // store in public/images/
-    liveLink: "https://your-ml-demo.vercel.app",
-    codeLink: "https://github.com/yourusername/ml-from-scratch",
+      "A full-stack web application for conducting secure online examinations with real-time proctoring.",
+    tech: ["React", "Django", "PostgreSql"],
+    image: "images/proctoredtest.webp", // store in public/images/
+    liveLink: "https://gradarena.in/",
+    codeLink: "https://github.com/Asha-deepthi/GA_Backend",
+  },
+  {
+    title: "TechNova-Tech Event",
+    description:
+      "Designed and developed a website for the Tech Nova technical event conducted in our national technical symposium fest CRESENCE2K25 at JNTU-GV university ",
+    tech: ["React", "node.js", "MongoDB","TailwindCss"],
+    image: "images/techevent.avif", // store in public/images/
+    liveLink: "https://technova2k25.vercel.app ",
+    codeLink: "https://github.com/technova-022234/technova",
   },
   {
     title: "File Synchronizer",
     description:
       "Desktop app to sync folders locally using Electron + React. Includes auto/manual sync and real-time sync monitoring.",
     tech: ["React", "Electron", "Node.js"],
-    image: "/images/file-sync.png",
-    liveLink: "https://github.com/yourusername/file-synchronizer",
-    codeLink: "https://github.com/yourusername/file-synchronizer",
+    image: "images/filesync.jpg",
+    liveLink: "https://file-synchronizer.vercel.app/",
+    codeLink: "https://github.com/Alekhya-rani/File_Synchronizer_Frontend",
+  },
+  {
+    title: "Inventory Management System",
+    description:
+      "Developed a Inventory Management System application to facilitate real-time CRUD operations in inventory management.",
+    tech: ["Python", "pandas", "Tkinter"],
+    image: "images/inventory.webp", // store in public/images/
+    codeLink: "https://github.com/Alekhya-rani/Advance-Python-Project",
+  },
+  {
+    title: "My Music Player",
+    description:
+      "The core functionality allows users to play, pause, and navigate through music tracks.",
+    tech: ["HTML", "CSS", "Javascript"],
+    image: "images/musicplayer.webp", // store in public/images/
+    codeLink: "https://github.com/Alekhya-rani/my-music-player",
+  },
+  {
+    title: "ML From Scratch",
+    description:
+      "Implemented ML algorithms like Linear Regression, KNN, Decision Trees, K-Means, PCA, and more — without using any external ML libraries.",
+    tech: ["Python", "NumPy", "Matplotlib"],
+    image: "images/ml.webp", // store in public/images/
+    codeLink: "https://github.com/Alekhya-rani/ml-zero",
   },
   // Add more as needed
 ];

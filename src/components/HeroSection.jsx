@@ -19,7 +19,7 @@ export default function HeroSection() {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.3, duration: 0.6 }}
         >
-          Passionate Web Developer & Future ML Engineer
+          Passionate Web Developer & Software Devloper
         </motion.h2>
 
         <motion.p

@@ -9,9 +9,11 @@ export default function About() {
           About <span className="text-indigo-500">Me</span>
         </h2>
         <p className="text-lg text-gray-300 max-w-3xl mx-auto leading-relaxed">
-          I'm Alekhya Rani, a passionate web developer with a keen interest in machine learning. 
-          I love creating responsive, user-friendly websites and experimenting with intelligent systems. 
-          I'm currently exploring full-stack development and AI-powered tools.
+          A passionate and motivated  B .Tech Computer Science student at JNTU-GV, aspiring to become a software engineer. 
+Proficient in frontend development using React.js, Tailwind CSS, and experienced in problem-solving and algorithmic thinking. 
+Enthusiastic about learning new technologies, building efficient and scalable applications, and contributing to innovative 
+projects. Seeking an internship and Job opportunities to apply my technical skills, enhance my knowledge, and gain real-world industry 
+experience. 
         </p>
       </div>
     </section>
